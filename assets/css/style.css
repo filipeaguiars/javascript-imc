@@ -60,3 +60,15 @@ form button:hover {
 div.res {
   float: right;
 }
+
+p.normal{
+  background-color: green;
+}
+
+p.obesidade{
+  background-color: red;
+}
+
+p.sobrepeso{
+  background-color: yellow;
+}
